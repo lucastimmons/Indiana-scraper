@@ -1,0 +1,13 @@
+{
+  "name"         : "Basic-web-scraperr",
+  "version"      : "0.0.1",
+  "description"  : "Simple web scraper template",
+  "main"         : "server.js",
+  "author"       : "Lucas Timmons",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "fs"   		 : "latest"
+  }
+}
